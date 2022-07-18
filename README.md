@@ -18,7 +18,7 @@ Aplicativo Necessario (Android)
 Termux (Instalador)
 
 ```bash
-pkg update && pkg upgrade && pkg install python && pkg install git && pip install requests && pip install datetime && pip install ipcalc && cd $home && mkdir WispProxy && git clone https://github.com/WispSSH/WispProxy-Prototipo-II.git WispProxy && cd WispProxy && rm README.md && python wispproxyv2.py
+pkg update && pkg upgrade && pkg install python && pkg install git && pip install requests && pip install datetime && pip install ipcalc && pip install six && cd $home && mkdir WispProxy && git clone https://github.com/WispSSH/WispProxy-Prototipo-II.git WispProxy && cd WispProxy && rm README.md && python wispproxyv2.py
 ```
 
 Dependencias
@@ -27,6 +27,7 @@ Dependencias
 pip install requests
 pip install datetime
 pip install ipcalc
+pip install six
 ```
 
 Inicie o script com
