@@ -8,6 +8,8 @@ _ _ _ _ ____ ___    ___  ____ ____ _  _ _   _
 
 - Primeiro projeto experimental feito para checar os status dos proxys.
 - Versão liberada gratuitamente.
+- Grupo com a chave de execução.
+- https://t.me/wispssh_central
 
 ## Instalação
 
